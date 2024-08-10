@@ -1,1 +1,2 @@
 *.nc filter=lfs diff=lfs merge=lfs -text
+instrument_characterization/3320_lsfs_valid_range.nc filter=lfs diff=lfs merge=lfs -text
