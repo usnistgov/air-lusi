@@ -6,6 +6,7 @@
 - LSFs/SRFs regridded on vacuum scale at denser grid to match TSIS/HSRS-2 grid adopted by LSICS. The pipeline code at NIST uses in-air for historical reasons, and the data are converted in post processing.
 - A few additional sources of Type B errors were added. See Issue [https://github.com/usnistgov/air-lusi/issues/1].
 
+## Details
 This repository contains data on lunar irradiance and reflectance based on measurements by the air-LUSI instrument. The instrument is described in [Grantham, *et al*, 2022](https://doi.org/10.1088/1361-6501/ac5875) and is a joint NASA, NIST, USGS, University of Maryland Baltimore County, McMaster University project. The data are provided in a pre-publication state and small changes may be made as the review process progresses. 
 
 Before use, please review:
