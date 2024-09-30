@@ -1,6 +1,9 @@
 # Air-LUSI Data Repository
 
 ## Updates
+### 2024/9/30
+Re-ran code, now considered beta version. Approval for wide-release imminent. Matches calibration report. 
+
 ### 2024/8/10
 - wavelength scale now entirely in vacuum.
 - LSFs/SRFs regridded on vacuum scale at denser grid to match TSIS/HSRS-2 grid adopted by LSICS. The pipeline code at NIST uses in-air for historical reasons, and the data are converted in post processing.
