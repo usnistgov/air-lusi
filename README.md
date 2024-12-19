@@ -1,6 +1,10 @@
 # Air-LUSI Data Repository
 
 ## Updates
+
+### 2024/10/15
+Calibration report issued. See pdf in documentation directory.
+
 ### 2024/9/30
 Re-ran code, now considered beta version. Approval for wide-release imminent. Matches calibration report. 
 
