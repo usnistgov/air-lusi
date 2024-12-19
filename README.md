@@ -2,7 +2,7 @@
 
 ## Updates
 
-### 2024/10/15
+### 2024/10/11
 Calibration report issued. See pdf in documentation directory.
 
 ### 2024/9/30
