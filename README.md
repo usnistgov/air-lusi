@@ -3,7 +3,8 @@
 ## Updates
 
 ### 2024/12/18
-Repository locked to air-LUSI team only access during review for official data release with no use restrictions. 
+Repository locked to air-LUSI team only access during review for official data release with no use restrictions.  
+Added DOI to NetCDF file. 
 
 ### 2024/10/11
 Calibration report issued. See pdf in documentation directory.
