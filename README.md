@@ -43,6 +43,5 @@ john.woodward@nist.gov
 
 Stephen Maxwell  
 NIST Physical Measurement Laboratory  
-Sensor Science Division  
-Remote Sensing Group  
+Research Data and Computing Office
 stephen.maxwell@nist.gov  
