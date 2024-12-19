@@ -24,7 +24,7 @@ Before use, please review:
 - The [issues page](https://github.com/usnistgov/air-lusi/issues)
 
 
-Users of the repository should have a relatively recent python installation with the ability to use Jupyter notebooks. See the `requirements.txt` file in the root directory for required packages. 
+Users of the repository should have a relatively recent python installation with the ability to use Jupyter notebooks. See the `pyproject.toml` file in the root directory for required packages. 
 
 
 The repository has three main folders
