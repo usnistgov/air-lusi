@@ -1,6 +1,0 @@
-numpy
-jupyter
-xarray
-matplotlib
-polars
-pandas

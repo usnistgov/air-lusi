@@ -1,0 +1,16 @@
+[project]
+name = "air-lusi"
+version = "1.0
+description = "Data release for air-LUSI 2022 flights"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "h5netcdf>=1.4.1",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.0",
+    "polars>=1.17.1",
+    "pyarrow>=18.1.0",
+    "scipy>=1.14.1",
+    "xarray>=2024.11.0",
+]

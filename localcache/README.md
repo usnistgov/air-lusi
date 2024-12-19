@@ -1,0 +1,2 @@
+# Folder Info
+This folder is used to store the 19 RELAB spectra that get downloaded in the `relab_spectra.ipynb` notebook. We do not redistribute these, so the data must be downloaded the first time the notebook is run or manually from the URLs in the notebook. 

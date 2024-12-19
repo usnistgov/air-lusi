@@ -1,1 +1,4 @@
-localcache/*
+localcache/*.txt
+.venv
+.python-version
+uv.lock
