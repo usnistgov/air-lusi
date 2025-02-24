@@ -1,22 +1,5 @@
 # Air-LUSI Data Repository
 
-## Updates
-
-### 2024/12/18
-Repository locked to air-LUSI team only access during review for official data release with no use restrictions.  
-Added DOI to NetCDF file. 
-
-### 2024/10/11
-Calibration report issued. See pdf in documentation directory.
-
-### 2024/9/30
-Re-ran code, now considered beta version. Approval for wide-release imminent. Matches calibration report. 
-
-### 2024/8/10
-- wavelength scale now entirely in vacuum.
-- LSFs/SRFs regridded on vacuum scale at denser grid to match TSIS/HSRS-2 grid adopted by LSICS. The pipeline code at NIST uses in-air for historical reasons, and the data are converted in post processing.
-- A few additional sources of Type B errors were added. See Issue [https://github.com/usnistgov/air-lusi/issues/1].
-
 ## Details
 This repository contains data on lunar irradiance and reflectance based on measurements by the air-LUSI instrument. The instrument is described in [Grantham, *et al*, 2022](https://doi.org/10.1088/1361-6501/ac5875) and is a joint NASA, NIST, USGS, University of Maryland Baltimore County, McMaster University project. The data are provided in a pre-publication state and small changes may be made as the review process progresses. 
 
