@@ -1,7 +1,7 @@
 # Air-LUSI Data Repository
 
 ## Details
-This repository contains data on lunar irradiance and reflectance based on measurements by the air-LUSI instrument. The instrument is described in [Grantham, *et al*, 2022](https://doi.org/10.1088/1361-6501/ac5875) and is a joint NASA, NIST, USGS, University of Maryland Baltimore County, McMaster University project. The data are provided in a pre-publication state and small changes may be made as the review process progresses. 
+This repository contains data on lunar irradiance and reflectance based on measurements by the air-LUSI instrument. The instrument is described in [Grantham, *et al*, 2022](https://doi.org/10.1088/1361-6501/ac5875) and is a joint NASA, NIST, USGS, University of Maryland Baltimore County, McMaster University project. The NIST-hosted home for the data is [https://data.nist.gov/pdr/lps/ark:/88434/mds2-3397](https://data.nist.gov/pdr/lps/ark:/88434/mds2-3397). 
 
 Before use, please review:
 - Any notebooks in the [examples directory](https://github.com/usnistgov/air-lusi/tree/main/example_usage). Even if you are not a notebook or Python user, this is informative and you can view the notebooks and plots within GitHub.
