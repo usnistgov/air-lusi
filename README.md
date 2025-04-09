@@ -30,7 +30,6 @@ Remote Sensing Group
 john.woodward@nist.gov  
 
 Stephen Maxwell  
-NIST Physical Measurement Laboratory  
 Research Data and Computing Office  
 stephen.maxwell@nist.gov  
 
