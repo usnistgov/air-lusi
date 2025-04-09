@@ -16,8 +16,12 @@ The repository has three main folders
  - `instrument_characterization` contains auxilliary instrument data (line shapes) necessary to understand the data.
  - `example_usage` contains Jupyter Notebook files that provide guidance on how to use the data.
 
+## Citing the data
+John T. Woodward, Stephen E. Maxwell, Thomas C. Larason, Steven E. Grantham, Thomas C. Stone, S. Andrew Gadsden, Andrew Newton, Kevin  R. Turpie (2025), Air-LUSI - Lunar Spectral Irradiance Data Repository: 2022 Data, National Institute of Standards and Technology, https://doi.org/10.18434/mds2-3397 
 
-The repository maintainers are:
+Please include the date of access in parentheses at the end of the citation. For example: (Accessed 2025-04-09).
+
+## Repository maintainers
 
 John Woodward  
 NIST Physical Measurement Laboratory  
@@ -29,3 +33,4 @@ Stephen Maxwell
 NIST Physical Measurement Laboratory  
 Research Data and Computing Office  
 stephen.maxwell@nist.gov  
+
